@@ -1,0 +1,20 @@
+Sol,SG Tau Ceti,Tau Ceti,SG Sol
+Sol,SG Alpha Centauri,Alpha Centuari,SG Sol
+Sol,SG Epsilon Eridani,Epsilon Eridani,SG Sol
+Tau Ceti,SG Sol,Sol,SG Tau Ceti
+Tau Ceti,SG Epsilon Eridani,Epsilon Eridani,SG Tau Ceti
+Tau Ceti,SG Sirius,Sirius,SG Tau Ceti
+Tau Ceti,SG New China,New China,SG Tau Ceti
+Epsilon Eridani,SG Sol,Sol,SG Epsilon Eridani
+Epsilon Eridani,SG Tau Ceti,Tau Ceti,SG Epsilon Eridani
+Epsilon Eridani,SG GH678,GH678,SG Epsilon Eridani
+GH678,SG Alpha Centauri,Alpha Centuari,SG GH678
+GH678,SG Epsilon Eridani,Epsilon Eridani,SG GH678
+GH678,SG Orbieu,Orbiue,SG GH678
+Orbiue,SG GH678,GH678,SG Orbieu
+Alpha Centuari,SG Sol,Sol,SG Alpha Centauri
+Alpha Centuari,SG GH678,GH678,SG Alpha Centauri
+Alpha Centuari,SG Sigma Draco,Sigma Draco,SG Alpha Centauri
+Sigma Draco,SG Alpha Centauri,Alpha Centuari,SG Sigma Draco
+Sirius,SG Tau Ceti,Tau Ceti,SG Sirius
+New China,SG Tau Ceti,Tau Ceti,SG New China

@@ -1,0 +1,36 @@
+Sol,Terra,M,2,7,14,7,7,7,Sol,Terra
+Sol,Mars,R,2,5,12,9,9,9,Sol,Terra
+Sol,Saturn,G,7,5,7,14,14,14,Sol,Terra
+Sol,Neptune,SB,14,12,7,16,16,16,Sol,Terra
+Sol,SG Tau Ceti,SG,7,9,14,16,2,2,Sol,Terra
+Sol,SG Alpha Centauri,SG,7,9,14,16,2,2,Sol,Terra
+Sol,SG Epsilon Eridani,SG,7,9,14,16,2,2,Sol,Terra
+Tau Ceti,Tau Prime,G,4,9,9,9,9,0,Tau Ceti,Tau Prime
+Tau Ceti,Rockland,AF,4,13,13,13,13,0,Tau Ceti,Tau Prime
+Tau Ceti,SG Sol,SG,9,13,2,2,2,0,Tau Ceti,Tau Prime
+Tau Ceti,SG Epsilon Eridani,SG,9,13,2,2,2,0,Tau Ceti,Tau Prime
+Tau Ceti,SG Sirius,SG,9,13,2,2,2,0,Tau Ceti,Tau Prime
+Tau Ceti,SG New China,SG,9,13,2,2,2,0,Tau Ceti,Tau Prime
+Epsilon Eridani,Eridani K,R,3,8,8,8,0,0,Sol,Terra
+Epsilon Eridani,Star Base X5,SB,3,11,11,11,0,0,Sol,Terra
+Epsilon Eridani,SG Sol,SG,8,11,2,2,0,0,Sol,Terra
+Epsilon Eridani,SG Tau Ceti,SG,8,11,2,2,0,0,Sol,Terra
+Epsilon Eridani,SG GH678,SG,8,11,2,2,0,0,Sol,Terra
+GH678,SG Alpha Centauri,SG,2,2,0,0,0,0,Alpha Centuari,Alpha Major
+GH678,SG Epsilon Eridani,SG,2,2,0,0,0,0,Alpha Centuari,Alpha Major
+GH678,SG Orbieu,SG,2,2,0,0,0,0,Alpha Centuari,Alpha Major
+Orbiue,Siorac,M,10,0,0,0,0,0,Alpha Centuari,Alpha Major
+Orbiue,SG GH678,SG,10,0,0,0,0,0,Alpha Centuari,Alpha Major
+Alpha Centuari,Alpha Major,M,5,12,12,12,0,0,Alpha Centuari,Alpha Major
+Alpha Centuari,Alpha Belt,AF,5,7,7,7,0,0,Alpha Centuari,Alpha Major
+Alpha Centuari,SG Sol,SG,12,7,2,2,0,0,Alpha Centuari,Alpha Major
+Alpha Centuari,SG GH678,SG,12,7,2,2,0,0,Alpha Centuari,Alpha Major
+Alpha Centuari,SG Sigma Draco,SG,12,7,2,2,0,0,Alpha Centuari,Alpha Major
+Sigma Draco,Star Base N15,SB,5,0,0,0,0,0,Alpha Centuari,Alpha Major
+Sigma Draco,SG Alpha Centauri,SG,5,0,0,0,0,0,Alpha Centuari,Alpha Major
+Sirius,Sirius Major,M,3,5,6,0,0,0,Tau Ceti,Tau Prime
+Sirius,The Forties,F,3,2,9,0,0,0,Tau Ceti,Tau Prime
+Sirius,Sirius Minor,R,5,2,11,0,0,0,Tau Ceti,Tau Prime
+Sirius,SG Tau Ceti,SG,6,9,11,0,0,0,Tau Ceti,Tau Prime
+New China,Saigan Field,F,14,0,0,0,0,0,Tau Ceti,Tau Prime
+New China,SG Tau Ceti,SG,14,0,0,0,0,0,Tau Ceti,Tau Prime

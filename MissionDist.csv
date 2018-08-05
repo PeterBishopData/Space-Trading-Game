@@ -1,0 +1,42 @@
+Sol,Tau Ceti,1
+Sol,Epsilon Eridani,1
+Sol,Orbiue,3
+Sol,Alpha Centuari,1
+Sol,Sigma Draco,2
+Sol,Sirius,2
+Tau Ceti,Sol,1
+Tau Ceti,Epsilon Eridani,1
+Tau Ceti,Orbiue,3
+Tau Ceti,Alpha Centuari,2
+Tau Ceti,Sigma Draco,3
+Tau Ceti,Sirius,1
+Epsilon Eridani,Sol,1
+Epsilon Eridani,Tau Ceti,1
+Epsilon Eridani,Orbiue,2
+Epsilon Eridani,Alpha Centuari,2
+Epsilon Eridani,Sigma Draco,3
+Epsilon Eridani,Sirius,2
+Orbiue,Sol,3
+Orbiue,Tau Ceti,3
+Orbiue,Epsilon Eridani,2
+Orbiue,Alpha Centuari,2
+Orbiue,Sigma Draco,3
+Orbiue,Sirius,4
+Alpha Centuari,Sol,1
+Alpha Centuari,Tau Ceti,2
+Alpha Centuari,Epsilon Eridani,2
+Alpha Centuari,Orbiue,2
+Alpha Centuari,Sigma Draco,1
+Alpha Centuari,Sirius,3
+Sigma Draco,Sol,2
+Sigma Draco,Tau Ceti,3
+Sigma Draco,Epsilon Eridani,3
+Sigma Draco,Orbiue,3
+Sigma Draco,Alpha Centuari,1
+Sigma Draco,Sirius,4
+Sirius,Sol,2
+Sirius,Tau Ceti,1
+Sirius,Epsilon Eridani,2
+Sirius,Orbiue,4
+Sirius,Alpha Centuari,3
+Sirius,Sigma Draco,4
