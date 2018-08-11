@@ -1,0 +1,46 @@
+Game Flow
+
+Opens with a GUI allowing the player to check the toon’s details or the current system’s details and a list of game options.
+
+The game options are
+	a)	end the Game
+	b)	fly to a new location with in the same system – mark the box with an ‘x’ of the			 destination
+		(pirates can attack enroute in the system GH678)
+	c)	range of other option according to the location’s features
+		i) jump to new system if at a Star Gate
+		ii) trade if at a Planet or Star Base
+			First sell cargo then purchase new cargo
+			Prices and available goods are effected by the Planet type
+			A ship can carry four different types of cargo
+		iii) random event if at an Asteroid Field
+			1 to 6 find Ore (amount falls with time), 7 attacked by Space Monster, 				8 attacked by Pirates, 9 find a Wreck, 10 find Gem Stones
+		iv) land if at a Planet
+			Repair at a cost of 100 credits per point
+			Buy missiles at 125 credits each
+			Cash in combat fame for 500 credits each
+			Fill up with Fuel at 10 credits a unit
+		v) if at a Planet or Star Base accept a mission to transport a random number of			    	packages to another Planet or Star Base.  The reward amount depends on the			number of packages and the distance in Star Systems travelled.
+		vi) if there is a Stellar Gas Field then it can be skimmed for Stellar Gas.  There is a			 risk of damage through from an explosion
+
+Star Ship Fuel
+The player must ensure they constantly maintain sufficient fuel.  Fuel is used up per the number of days between planets or r units per jump.  Should they run out then they are saved by the Imperial Navy and sent to a regional location
+
+
+Data File Details
+
+These are stored in a folder called Data
+
+Bank – the amount of money held in the Bank
+Cargo – the type and amount held in each cargo slot (there are currently 4)
+Jumps – the in and out systems for each stargate
+MissionDist – the multiplier for the reward for delivery missions, a count of distance by systems
+Systems – For each body – the system, its name, its type, the distances between other bodies in the	 same system, and the rescue system if the trader runs out of fuel.. There are nine systems	 and thirty six planetary bodies.
+TradeGoods – the purchase and sale prices for commodities, and the amount for sale.  There are		 tradeable planet types and thirteen different trade goods
+Voyageur – name, occupation, ship name, current location (2), cargo capacity, ship defence, missiles carried, bounties, mission details(4), amount fuel
+
+
+	
+
+
+
+
